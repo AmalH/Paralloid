@@ -19,10 +19,8 @@ Paralloid is designed to be modular and very loosely coupled (to an extent).
 
 Two high level modules exist
 
-paralloid - which is the library which everything extends from.
-paralloidviews - which extends the library with a couple of pre-extended ScrollableViews.
-paralloidexamples - which is of course the examples App.
-Generally use paralloidviews as it contains everything you need to get going.
+library - which is the library which everything extends from.
+sample - contains a usage example of the paralloid library.
 
 ## Getting Started
 
