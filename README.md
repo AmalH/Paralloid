@@ -1,6 +1,6 @@
 ## Paralloid Library for Android ##
 
-This is a copy of the [Parraloid library by chrisjenx](https://github.com/user/repo/blob/branch/other_file.md):
+This is a copy of the deprecated [Parraloid library by chrisjenx](https://github.com/chrisjenx/Paralloid):
 
 Features
 
