@@ -24,7 +24,7 @@ paralloidviews - which extends the library with a couple of pre-extended Scrolla
 paralloidexamples - which is of course the examples App.
 Generally use paralloidviews as it contains everything you need to get going.
 
-Getting Started
+## Getting Started
 
 Dependency:
 
@@ -39,13 +39,11 @@ USE :
 		android:id="@+id/top_content"
            	android:layout_width="match_parent"
            	android:layout_height="192dp"/>
-
 <com.tn.amalhichri.library.views.ParallaxScrollView>
         android:id="@+id/scroll_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fillViewport="true">
-
     <LinearLayout
     	android:id="@+id/scroll_content"
             android:layout_width="match_parent"
