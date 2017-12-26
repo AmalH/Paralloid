@@ -37,7 +37,7 @@ USE :
            	android:layout_width="match_parent"
            	android:layout_height="192dp"/>
 
-<com.tn.amalhichri.library.views.ParallaxScrollView>
+<com.tn.amalhichri.library.views.ParallaxScrollView
         android:id="@+id/scroll_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
