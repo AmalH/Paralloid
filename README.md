@@ -30,18 +30,19 @@ dependencies {
     compile 'com.github.AmalLibs:Paralloid:1.0.0'
 }
 
-
 USE :
 
 <FrameLayout
 		android:id="@+id/top_content"
            	android:layout_width="match_parent"
            	android:layout_height="192dp"/>
+
 <com.tn.amalhichri.library.views.ParallaxScrollView>
         android:id="@+id/scroll_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fillViewport="true">
+
     <LinearLayout
     	android:id="@+id/scroll_content"
             android:layout_width="match_parent"
