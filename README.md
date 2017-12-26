@@ -1,4 +1,4 @@
-Paralloid
+## Paralloid Library for Android ##
 
 This is a copy of the Parraloid library by chrisjenx:
 
