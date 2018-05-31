@@ -32,6 +32,7 @@ dependencies {
 
 USE :
 
+```
 <FrameLayout
 		android:id="@+id/top_content"
            	android:layout_width="match_parent"
@@ -52,3 +53,4 @@ USE :
 
 </com.tn.amalhichri.library.views.ParallaxScrollView>
 </FrameLayout>
+```
